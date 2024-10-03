@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm Thomas.
 
+I'm studying a master's degree in software engineering, I have a great interest in learning new paradigms, as I enjoy attacking a problem from a new angle. I take an interest in distributed systems and distributed computing and is an active member of [Aalborg supercomputer klub](https://github.com/aalborg-supercomputer-klubben).
+
+If you want to know more about me and my projects, you can always take a look at my [website](https://skade.dev)
 <!--
 **Mast3rwaf1z/Mast3rwaf1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
