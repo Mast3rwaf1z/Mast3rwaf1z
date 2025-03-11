@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm Thomas.
 
+All code related to my self hosted server is found [here](https://github.com/Skademaskinen)
+
 * 📚 I'm studying a master's degree in software engineering at [Aalborg University](https://cs.aau.dk), currently working on my master's thesis in distributed systems. My master's thesis has most of its code available as free software at [Our Organisation](https://github.com/aau-p9s).
 
 * 💼 I'm working as a software developer at Lyngsoe Systems A/S. Check out my [CV](https://github.com/Mast3rwaf1z/CV)
