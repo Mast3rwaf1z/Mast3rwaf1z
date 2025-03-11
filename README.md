@@ -5,7 +5,7 @@ I'm studying for a M.Sc. Software degree, currently working on my master's thesi
 
 I'm working as a software developer @ Lyngsoe Systems A/S. My CV is available @ [CV](https://github.com/Mast3rwaf1z/CV)
 
-I volunteer as both a software contributer to [F-klubben](https://github.com/f-klubben), providing code review and ~~sometimes questionable~~ unrequested pull requests as well as taking an interest in planning and volunteering with the study association. I believe the key to keeping students motivated and deeper understanding is to breed a study environment that engages students in meaningful conversation on the study material.
+I volunteer as both a software contributor to [F-klubben](https://github.com/f-klubben) providing code review and ~~sometimes questionable~~ unrequested pull requests, as well as taking an interest in planning and volunteering with the study association. I believe the key to keeping students motivated and deeper understanding is to breed a study environment that engages students in meaningful conversation on the study material.
 
 I have a great interest in learning new paradigms, as I enjoy attacking a problem from a new angle. I take an interest in distributed systems and distributed computing and is an active member of [Aalborg supercomputer klub](https://github.com/aalborg-supercomputer-klubben).
 
