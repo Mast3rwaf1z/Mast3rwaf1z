@@ -1,7 +1,9 @@
 ## Hi there 👋
 I'm Thomas.
 
-I'm studying for a M.Sc. Software degree, currently working on my master's thesis in distributed systems. My master's thesis has most of its code available as free software @ [Our Organisation](https://github.com/aau-p9s)
+I'm studying for a M.Sc. Software degree, currently working on my master's thesis in distributed systems. My master's thesis has most of its code available as free software @ [Our Organisation](https://github.com/aau-p9s).
+
+Additionally I'm working as a software developer @ Lyngsoe Systems A/S. My CV is available @ [CV](https://github.com/Mast3rwaf1z/CV)
 
 I have a great interest in learning new paradigms, as I enjoy attacking a problem from a new angle. I take an interest in distributed systems and distributed computing and is an active member of [Aalborg supercomputer klub](https://github.com/aalborg-supercomputer-klubben).
 
