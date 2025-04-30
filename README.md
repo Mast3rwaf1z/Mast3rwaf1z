@@ -7,7 +7,7 @@ All code related to my self hosted server is found [here](https://github.com/Ska
 
 * 💼 I'm working as a software developer at Lyngsoe Systems A/S. Check out my [CV](https://github.com/Mast3rwaf1z/CV)
 
-* 🏫 I volunteer as both a software contributor to [F-klubben](https://github.com/f-klubben) providing code review and ~~sometimes questionable~~ unrequested pull requests, as well as taking an interest in planning and volunteering with the study association. I believe the key to keeping students motivated and deeper understanding is to breed a study environment that engages students in meaningful conversation on the study material.
+* 🏫 I volunteer as both a software contributor to [F-klubben](https://github.com/f-klubben) providing code review and ~~sometimes questionable~~ unrequested pull requests, as well as taking an interest in planning and volunteering with the study association. I believe the key to keeping students motivated and deeper understanding is to breed a study environment that engages students in meaningful conversation on the study material. For more information, see [fklub.dk](https//fklub.dk)
 
 * 🖥️ I have a great interest in learning new paradigms, as I enjoy attacking a problem from a new angle. I take an interest in distributed systems and distributed computing and is an active member of [Aalborg supercomputer klub](https://github.com/aalborg-supercomputer-klubben).
 
