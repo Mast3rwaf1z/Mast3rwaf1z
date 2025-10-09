@@ -5,7 +5,7 @@ All code related to my self hosted server is found [here](https://github.com/Ska
 
 * 📚 I graduated with a master's degree in software engineering at [Aalborg University](https://cs.aau.dk) in 2025 with a master's thesis in distributed systems. My master's thesis has most of its code available as free software at [Our Organisation](https://github.com/aau-p9s).
 
-* 💼 As of August 2025, I'm working as a software developer at Cobham SATCOM. Check out my [CV](https://github.com/Mast3rwaf1z/CV)
+* 💼 I am currently producing proprietary software for Cobham SATCOM, check out my [CV](https://github.com/Mast3rwaf1z/CV)
 
 * 🏫 I've volunteered as both a software contributor to [F-klubben](https://github.com/f-klubben) providing code review and ~~sometimes questionable~~ unrequested pull requests, as well as took an interest in planning and volunteering with the study association. I believe the key to keeping students motivated and deeper understanding is to breed a study environment that engages students in meaningful conversation on the study material. For more information, see [fklub.dk](https://fklub.dk)
 
