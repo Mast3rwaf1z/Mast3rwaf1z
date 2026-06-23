@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Thomas.
 
-All code related to my self hosted server is found [here](https://gitlab.com/mast3r_waf1z), previously [here](https://github.com/Skademaskinen)
+All code related to my self hosted server is found [here](https://codeberg.org/mast3r_waf1z), previously [here](https://github.com/Skademaskinen)
 
 I am currently migrating all the projects i have made that i actively use to gitlab, i will maintain a mirror of the projects i have moved so my github account still reflects my work.
 
